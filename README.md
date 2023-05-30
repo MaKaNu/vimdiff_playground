@@ -5,7 +5,5 @@ The README and instructions are based on
 
 ------------------------PLAYGROUND------------------------
 
-# The Ultimate Guide to Using Git
 
-***For The Impatient.***
 ----------------------------------------------------------
